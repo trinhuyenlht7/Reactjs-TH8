@@ -1,0 +1,17 @@
+Lịch Học: thứ 3 và thứ 5 6h30 
+
+5 buổi HTML, CSS
+10 buổi JS
+15 buổi React JS
+
+Auto Close Tag
+Auto Rename Tag
+bookmarks
+ES7+ React/Redux/React-Native snippets
+gitlens
+react hook snippets
+open in browser
+Code Runner
+
+
+freecodecamp
